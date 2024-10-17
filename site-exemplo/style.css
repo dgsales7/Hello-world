@@ -1,0 +1,13 @@
+h1{
+    text-align: center;
+    color: cadetblue;
+}
+
+p{
+    position: relative;
+    text-align: center;
+    margin: auto;
+    height: 100px;
+    width: 180px;
+    
+}
